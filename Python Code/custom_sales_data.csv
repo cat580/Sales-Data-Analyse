@@ -1,0 +1,11 @@
+transaction_id,date,amount,quantity,unit_price,customer,email,product,category,payment_method,region
+TX001,2023-02-17,269.97,3,89.99,Michael Davis,michael.davis@example.com,Fitness Tracker,Electronics,PayPal,East
+TX002,2023-08-06,449.95,5,89.99,Jane Williams,jane.williams@example.com,Fitness Tracker,Electronics,Bank Transfer,West
+TX003,2023-07-21,799.96,4,199.99,Emily Brown,emily.brown@example.com,Smart Speaker,Electronics,Cash,West
+TX004,2023-11-02,91.00,4,22.75,Jane Johnson,jane.johnson@example.com,T-Shirt,Clothing,Credit Card,West
+TX005,2023-08-14,25.98,2,12.99,Michael Johnson,michael.johnson@example.com,Coffee Mug,Home Goods,Bank Transfer,North
+TX006,2023-08-01,599.97,3,199.99,Jane Davis,jane.davis@example.com,Smart Speaker,Electronics,PayPal,East
+TX007,2023-06-13,269.97,3,89.99,Sarah Johnson,sarah.johnson@example.com,Fitness Tracker,Electronics,Credit Card,West
+TX008,2023-09-23,51.96,4,12.99,John Williams,john.williams@example.com,Coffee Mug,Home Goods,PayPal,North
+TX009,2023-10-23,89.99,1,89.99,Emily Miller,emily.miller@example.com,Fitness Tracker,Electronics,Bank Transfer,North
+TX010,2023-10-31,12.99,1,12.99,John Johnson,john.johnson@example.com,Coffee Mug,Home Goods,Credit Card,East
